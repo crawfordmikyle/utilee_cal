@@ -20,8 +20,14 @@ gem 'puma', '~> 3.7'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+# gem for devise
+# gem 'devise', '~> 4.4', '>= 4.4.3'
+# gem for omniauth
+gem 'omniauth', '~> 1.8', '>= 1.8.1'
 # gem for devise token auth
 gem 'devise_token_auth', '~> 0.1.36'
+# gem active model serializers 
+gem 'active_model_serializers', '~> 0.10.7'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
