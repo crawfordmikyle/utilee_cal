@@ -18,7 +18,8 @@ gem 'puma', '~> 3.7'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-
+# gem for devise token auth
+gem 'devise_token_auth', '~> 0.1.36'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
