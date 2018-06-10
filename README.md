@@ -1,24 +1,6 @@
 # README
+## Utilee Cal 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Purpose
+Utilee Call is a project I have devised to showcase Rails React Redux and JWT. The idea is to have a todo list and a calendar that work together setting the todo items into the calendar automatically and rescheduling the items when they are missed.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
